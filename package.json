@@ -1,0 +1,19 @@
+{
+  "name": "polymarket-mcp",
+  "version": "1.0.0",
+  "description": "Polymarket project with MCP server integration",
+  "main": "index.js",
+  "scripts": {
+    "setup-db": "mkdir -p data && touch data/polymarket.db",
+    "start": "node local-mcp-server.js",
+    "start-local": "node local-mcp-server.js",
+    "test-mcp": "node test-mcp.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6",
+    "axios": "^1.6.0"
+  },
+  "keywords": ["polymarket", "mcp", "prediction-markets"],
+  "author": "",
+  "license": "MIT"
+}

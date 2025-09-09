@@ -1,0 +1,2 @@
+https://docs.polymarket.com/quickstart/introduction/main
+https://gamma-api.polymarket.com/

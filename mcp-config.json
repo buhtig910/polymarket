@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "polymarket-local": {
+      "command": "node",
+      "args": ["local-mcp-server.js"],
+      "cwd": "."
+    }
+  }
+}
