@@ -1,13 +1,13 @@
-# Polymarket MCP Integration
+# Kalshi MCP Integration
 
-This project integrates Model Context Protocol (MCP) servers to enhance Polymarket data analysis and automation capabilities.
+This project integrates Model Context Protocol (MCP) servers to enhance Kalshi data analysis and automation capabilities.
 
 ## MCP Servers Included (No API Keys Required)
 
 ### Core Servers
 - **File System**: Access and manage project files
-- **SQLite**: Store and query market data locally
-- **Web Scraper**: Extract data from Polymarket and other sources
+- **SQLite**: Store and query Kalshi market data locally
+- **Web Scraper**: Extract data from Kalshi and other sources
 
 ### Utility Servers
 - **Time/DateTime**: Handle time-based market data and predictions
@@ -42,8 +42,8 @@ Edit `mcp-config.json` to customize MCP server settings. Each server can be conf
 
 ## API References
 
-- Polymarket Quickstart: https://docs.polymarket.com/quickstart/introduction/main
-- Polymarket API: https://gamma-api.polymarket.com/
+- Kalshi API Documentation: https://trading-api.readme.io/
+- Kalshi Trading Platform: https://kalshi.com/
 
 ## MCP Server Sources
 

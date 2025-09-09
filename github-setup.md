@@ -86,6 +86,6 @@ If you encounter authentication issues:
 
 3. **Check Git Configuration**:
    ```bash
-   git config --global user.name "Your Name"
-   git config --global user.email "your.email@example.com"
+   git config --global user.name "Anon"
+   git config --global user.email "Anon"
    ```
